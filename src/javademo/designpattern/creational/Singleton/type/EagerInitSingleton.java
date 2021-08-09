@@ -1,7 +1,6 @@
-package javademo.designpattern.Singleton.type;
+package javademo.designpattern.creational.Singleton.type;
 
 
-import java.io.ObjectInput;
 import java.io.Serializable;
 
 // Java code to create singleton class by Eager Initialization

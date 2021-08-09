@@ -1,4 +1,4 @@
-package javademo.designpattern.Singleton.type;
+package javademo.designpattern.creational.Singleton.type;
 
 import java.io.Serializable;
 

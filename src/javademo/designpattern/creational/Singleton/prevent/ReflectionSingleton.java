@@ -1,6 +1,6 @@
-package javademo.designpattern.Singleton.prevent;
+package javademo.designpattern.creational.Singleton.prevent;
 
-import javademo.designpattern.Singleton.type.EagerInitSingleton;
+import javademo.designpattern.creational.Singleton.type.EagerInitSingleton;
 
 import java.lang.reflect.Constructor;
 

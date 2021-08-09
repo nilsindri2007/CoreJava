@@ -1,6 +1,6 @@
-package javademo.designpattern.Singleton.prevent;
+package javademo.designpattern.creational.Singleton.prevent;
 
-import javademo.designpattern.Singleton.type.LazyInitDesignPattern;
+import javademo.designpattern.creational.Singleton.type.LazyInitDesignPattern;
 
 import java.io.*;
 

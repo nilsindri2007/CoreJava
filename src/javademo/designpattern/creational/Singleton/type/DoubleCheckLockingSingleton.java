@@ -1,4 +1,4 @@
-package javademo.designpattern.Singleton.type;
+package javademo.designpattern.creational.Singleton.type;
 
 public class DoubleCheckLockingSingleton {
     private static DoubleCheckLockingSingleton instance;

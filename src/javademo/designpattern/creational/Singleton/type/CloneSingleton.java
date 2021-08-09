@@ -1,6 +1,4 @@
-package javademo.designpattern.Singleton.type;
-
-import javademo.designpattern.Singleton.type.EagerInitSingleton;
+package javademo.designpattern.creational.Singleton.type;
 
 public class CloneSingleton  {
     public static void main (String[] args) throws CloneNotSupportedException {
